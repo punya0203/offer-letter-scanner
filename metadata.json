@@ -1,0 +1,6 @@
+{
+  "name": "Fake Offer Letter & Phishing Inspector",
+  "description": "Single-page security scanner that parses job offers, rental agreements, and recruiter URLs to detect domain age anomalies, payment traps, and calculate a dynamic scam Threat Index.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

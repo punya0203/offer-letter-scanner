@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Sentinel PhishGuard - Offer & Scam Inspector",
+  "short_name": "PhishGuard",
+  "description": "Security scanner that parses job offers, rental agreements, and recruiter URLs to calculate a dynamic scam Threat Index.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "orientation": "portrait-primary",
+  "categories": ["security", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
